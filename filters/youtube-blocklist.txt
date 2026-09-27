@@ -1,0 +1,23 @@
+# 🚫 YouTube Ad & Tracking Blocklist for iOS
+# Last Updated: 2026
+# Target: Telemetry, tracking, and known ad delivery domains
+
+# YouTube Telemetry & Analytics
+://youtube.com
+://youtube.com
+://google.com
+://google.com
+://youtube.com
+://google.com
+
+# Ad Serving Domains
+googlesyndication.com
+://googlesyndication.com
+://google.com
+googleads.g.doubleclick.net
+stats.g.doubleclick.net
+securepubads.g.doubleclick.net
+
+# Mobile Traffic & Promo Ads
+://googleapis.com
+://google.com
