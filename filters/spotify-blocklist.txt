@@ -1,0 +1,25 @@
+# 🚫 Spotify Audio & Banner Ad Blocklist for iOS
+# Last Updated: 2026
+# Target: Audio ads, video ads, and in-app tracking
+
+# Spotify Ad Servers (Audio & Video Ads)
+://spotify.com
+://spotify.com
+audio-ak-spotify-com.akamaized.net
+://scorecardresearch.com
+bounceexchange.com
+://spotify.com
+://spotify.com
+://pubmatic.com
+://googlesyndication.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+://spotify.com
+://spotify.com
+://jwpcdn.com
+://googlesyndication.com
+
+# Telemetry & Tracking
+://spotify.com
+://spotify.com
+://spotify.com
